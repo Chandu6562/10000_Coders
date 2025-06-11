@@ -1,6 +1,5 @@
 h2{
     text-align: center;
-    color: brown;
 }
 .first-para{
     text-align: center;
@@ -8,11 +7,5 @@ h2{
 
 .main{
     width: 50%;
-    margin-left: 30%; 
-    border: 2px solid grey;
-    padding: 15px;
-    color: rgb(24, 117, 183);
-}
-p{
-    color: blueviolet;
+    margin-left: 30%;
 }
